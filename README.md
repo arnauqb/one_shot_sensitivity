@@ -2,7 +2,7 @@
 
 Code to reproduce the results of the paper "Don’t Simulate Twice: One-Shot Sensitivity Analyses via Automatic Differentiation" presented at AAMAS 2023.
 
-# Requirements
+# Setup
 
 First, install [PyTorch](pytorch.org/) and [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/) according to your system specifications (CUDA / CPU) version.
 
